@@ -50,3 +50,9 @@ DOWNGRADE_FROM_ALA=1 downgrade octave
 
 and then select version 4.4.1
 
+
+
+Also recommend betterlockscreen: https://github.com/pavanjadhaw/betterlockscreen>
+
+Read their README.md for further details. Different setup procedure for kde, gnome, i3, etc.
+
