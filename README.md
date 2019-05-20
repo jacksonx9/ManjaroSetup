@@ -37,6 +37,8 @@ plugins=(
   copyfile
   timer
   archlinux
+  docker
+  npm
 )
 ```
 
