@@ -29,6 +29,9 @@ ZSH_THEME="agnoster"
 
 plugins=(
   git
+  git_branch_remote
+  history
+  systemd
   sudo
   zsh-autosuggestions
   autojump
