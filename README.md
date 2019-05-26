@@ -44,7 +44,7 @@ plugins=(
 
 ### Others
 
-octave-5.1.0-4 has a bug, downgrade to previous version. Recommend:
+octave-5.1.0-4 has a bug with `PAUSE`, downgrade to previous version. Recommend:
 
 ```Linux
 DOWNGRADE_FROM_ALA=1 downgrade octave 

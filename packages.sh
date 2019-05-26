@@ -52,6 +52,7 @@ sudo pacman -S brscan4 --noconfirm --needed
 sudo pacman -S zsh-syntax-highlighting --noconfirm --needed
 sudo pacman -S autojump --noconfirm --needed
 sudo pacman -S --noconfirm --needed
+gem install git_remote_branch 
 
 # Others
 sudo pacman -S wine --noconfirm --needed

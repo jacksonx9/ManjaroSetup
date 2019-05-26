@@ -72,6 +72,8 @@ REST client
 
 live server
 
+Docker
+
 #### Add Vertical Line at 80
 
 <https://stackoverflow.com/questions/29968499/vertical-rulers-in-visual-studio-code/45951311#45951311>
